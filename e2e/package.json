@@ -1,0 +1,14 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "runTest": "./node_modules/cypress/bin/cypress run",
+    "openTest": "./node_modules/cypress/bin/cypress open"
+  },
+  "author": "",
+  "devDependencies": {
+    "cypress": "^3.0.2"
+  }
+}

@@ -1,0 +1,25 @@
+bower_components/
+build/
+node_modules/
+*.class
+.idea
+target
+project/target
+journal/
+log/
+dist/
+src/main/resources/app
+src/main/resources/public
+
+######################
+# OS generated files #
+######################
+*/.DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
